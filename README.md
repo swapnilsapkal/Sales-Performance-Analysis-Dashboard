@@ -53,13 +53,13 @@ sales-performance-dashboard/
 
 | KPI | Value |
 |---|---|
-| 💰 Total Revenue | ₹61,82,639 |
-| 📊 Total Profit | ₹16,10,697 |
+| 💰 Total Revenue | $61,82,639 |
+| 📊 Total Profit | $16,10,697 |
 | 📦 Total Orders | 1,194 |
 | 📉 Profit Margin | 26.05% |
-| 🏆 Top Category | Office Supplies (₹20,89,510) |
+| 🏆 Top Category | Office Supplies ($20,89,510) |
 | 📍 Top State | New York |
-| 👤 Top Customer | Cory Evans (₹28,557) |
+| 👤 Top Customer | Cory Evans ($28,557) |
 | 🛒 Top Sub-Category | Markers |
 
 ### Findings
